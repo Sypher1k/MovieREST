@@ -1,0 +1,32 @@
+{
+        "id":1,
+        "title":"Hitman",
+        "rating":8,
+        "catagory": 1,
+        "imgUrl":"https://media-cache.cinematerial.com/p/500x/eqsuydyi/hitman-movie-poster.jpg?v=1456667060",
+        "description":"A gun-for-hire known only as Agent 47 hired by a group known only as The Organization is ensnared in a political conspiracy, which finds him pursued by both Interpol and the Russian military as he treks across Russia and Eastern Europe."
+      },
+      {
+        "id":2,
+        "title":"Parasite",
+        "rating":4,
+        "catagory":"2",
+        "imgUrl":"https://media-cache.cinematerial.com/p/500x/gfquzb4t/parasite-south-korean-movie-poster.jpg?v=1576097225",
+        "description":"Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan."
+      },
+      {
+        "id":3,
+        "title":"Kill Bill",
+       "rating":5,
+        "catagory":1,
+        "imgUrl":"https://media-cache.cinematerial.com/p/500x/y4lekhlk/kill-bill-vol-1-movie-poster.jpg?v=1456276091",
+        "description":"After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her."
+      },
+      {
+        "id":4,
+        "title":"Dumb and Dumber",
+        "rating":9,
+        "catagory":3,
+        "imgUrl":"https://media-cache.cinematerial.com/p/500x/hl5aotj3/dumb-dumber-movie-poster.jpg?v=1456292848",
+        "description":"After a woman leaves a briefcase at the airport terminal, a dumb limo driver and his dumber friend set out on a hilarious cross-country road trip to Aspen to return it."
+      }
